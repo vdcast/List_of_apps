@@ -1,7 +1,7 @@
 **Hi there! Welcome to vdcast github!**
 
-*Here you can find list of my apps.
-Each repository contains description, screenshots or recorded screen as GIF file.*
+Here you can find list of my apps.
+Each repository contains description, screenshots or recorded screen as GIF file.
 
 **Jetpack Compose Animations.**
 
