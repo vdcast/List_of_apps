@@ -3,7 +3,8 @@
 Here you can find list of my apps.
 Each repository contains description, screenshots or recorded screen as GIF file.
 
-**KMP app*.*
+**KMP app*.**
+
 https://github.com/vdcast/my-bird-app
 
 **Jetpack Compose Animations.**
